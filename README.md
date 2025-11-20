@@ -153,7 +153,7 @@ I specialize in building **cloud-native, resilient, scalable architectures** and
 # 📫 Contact (For Remote Hiring)
 
 📧 Email: **ashish.serco@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/ashishpandeylnkd/**  
+🔗 LinkedIn: **https://www.linkedin.com/in/ashishpandeyln/**  
 🛂 US B1 Visa: **Valid until 2026**  
 🌍 Open to: **US, Europe, UK, Canada (Remote Only)**  
 
